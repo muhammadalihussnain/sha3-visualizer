@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Large files
+*.exe
+*.msi
+*.deb
+*.rpm
